@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+    
+}
+h1{
+    color:white;
+    font-family: "Roboto Mono", "consolas", sans-serif;
+}
+p{
+    color:white;
+    font-family: "consolas", sans-serif;
+}
+#p1{
+    color:black;
+    background-color: white;
+    font-weight:bold;
+}
+label{
+    color: white;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: 25px;
+    font-family: "Roboto Mono", "consolas", sans-serif;
+}
+button{
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: 25px;
+    color: black;
+    text-align: center;
+    cursor: pointer;
+    background-color: white;
+    padding: 8px 15px;
+    font-family: "Roboto Mono", "consolas", sans-serif;
+}
+form{
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-family: "Roboto Mono", "consolas", sans-serif;
+}
+input{
+    margin-left: 25%;
+    margin-right: 25%;
+    border-color: white;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    font-family: "Roboto Mono", "consolas", sans-serif;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20%
+
+}
